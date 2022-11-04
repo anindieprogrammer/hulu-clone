@@ -22,7 +22,7 @@ This is a clone of Hulu website.
 
 ### Links
 
-- Live Site URL: [Netlify](https://sage-gaufre-1780cb.netlify.app)
+- Live Site URL: [Netlify](https://huluclonebysrk.netlify.app/)
 
 ## My process
 
